@@ -8,6 +8,7 @@ int main()
     while(!(n==29))
     {
         cout<<n;
+        printf("hellow");
     cin>>n;}
     cout<<".\n..\n..\nEnd of program\n";
 
